@@ -3,25 +3,25 @@ This is a script I wrote for my dad for father's day. I couldn't buy him anythin
 
 
 
-Name of File: Type in a name in the tkinter window that pops up.
+**Name of File**: Type in a name in the tkinter window that pops up.
 
-Year_Current: Current year
+**Year_Current**: Current year
 
-Month: Month the picture was created.
+**Month**: Month the picture was created.
 
-Day: Day the picture was created.
+**Day**: Day the picture was created.
 
-Year: Year the picture was created.
+**Year**: Year the picture was created.
 
 
 
-It will store it in this format:
+## It will store it in this format:
 
 E:\My Digital Camera Pictures\[Year_Current] Pictures\[Year] [Month]-[Day]-[Year] - [Name of File]\[All Pictures Go Here]
 
 
 
-The pictures are copied and renamed in the following format:
+## The pictures are copied and renamed in the following format:
 
 [Year] - [Month] - [Day] - [Year] - [Name of File] - #[Picture Number] of [Total Number of Pictures].JPG
 
