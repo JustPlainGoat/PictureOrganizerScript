@@ -17,7 +17,7 @@ This is a script I wrote for my dad for father's day. I couldn't buy him anythin
 
 ## It will store it in this format:
 
-E:\My Digital Camera Pictures\[Year_Current] Pictures\[Year] [Month]-[Day]-[Year] - [Name of File]\[All Pictures Go Here]
+E:\\My Digital Camera Pictures\\[Year_Current] Pictures\\[Year] [Month]-[Day]-[Year] - [Name of File]\\[All Pictures Go Here]
 
 
 
