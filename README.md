@@ -1,5 +1,5 @@
 # PictureOrganizerScript
-This is a script I wrote for my dad for father's day. I couldn't buy him anything because I'm broke, so I made him this for when he transfers pictures to his computer. Originally, this would take him about 30 minutes to do because he would have to rename each picture and store them in their appropriates directories, but now it can be done in seconds :) He can enter the name of the file he wants to create in a little window that pops up. If the file has already been created, it will just go further into the subdirectories.
+This is a script I wrote for my dad for father's day. This will transfer all the pictures from his camera to the appropriate directories. He can enter the name of the file he wants to create in a little window that pops up. If the file has already been created, it will just go further into the subdirectories.
 
 
 
