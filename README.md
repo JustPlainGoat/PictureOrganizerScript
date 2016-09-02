@@ -1,5 +1,5 @@
 # PictureOrganizerScript
-This is a script I wrote for my dad for father's day. This will transfer all the pictures from his camera to the appropriate directories. He can enter the name of the file he wants to create in a little window that pops up. If the file has already been created, it will just go further into the subdirectories.
+Script will transfer all pictures from my camera to their appropriate directories. I can enter the name for the file I want created in a window pop up. If the file has already been created, it will just go further into the subdirectories.
 
 
 
